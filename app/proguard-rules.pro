@@ -1,0 +1,2 @@
+-keep class ir.hesabyar.app.data.** { *; }
+-keepattributes *Annotation*
